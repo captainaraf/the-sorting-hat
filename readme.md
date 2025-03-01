@@ -106,13 +106,11 @@ Enter the number corresponding to your favorite subject: 0
 
 ---
 
-```markdown
 ## Screenshot
 
 Below is a screenshot showing the Sorting Hat in action:
 
 ![demo](image.png)
-```
 
 ---
 
